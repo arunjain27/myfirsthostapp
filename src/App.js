@@ -23,7 +23,7 @@ const App = () => {
        <Content  sty={before}/>
   
     <button style={{backgroundColor:"black" ,color:"white"}} onClick={changeback}>black</button>
-    <button onClick={changewhite}>white</button>
+    <button onClick={changewhite}>brown</button>
       </div>    
     </>
   ) 
