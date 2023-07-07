@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/myfirsthostapp/static/css/main.073c9b0a.css",
-    "main.js": "/myfirsthostapp/static/js/main.a65620ac.js",
+    "main.js": "/myfirsthostapp/static/js/main.3bb599bc.js",
     "static/js/787.c25464cd.chunk.js": "/myfirsthostapp/static/js/787.c25464cd.chunk.js",
     "index.html": "/myfirsthostapp/index.html",
     "main.073c9b0a.css.map": "/myfirsthostapp/static/css/main.073c9b0a.css.map",
-    "main.a65620ac.js.map": "/myfirsthostapp/static/js/main.a65620ac.js.map",
+    "main.3bb599bc.js.map": "/myfirsthostapp/static/js/main.3bb599bc.js.map",
     "787.c25464cd.chunk.js.map": "/myfirsthostapp/static/js/787.c25464cd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.a65620ac.js"
+    "static/js/main.3bb599bc.js"
   ]
 }
